@@ -9,5 +9,7 @@
 ~~Unknown Premisis~~
 
 <!-- Tables -->
-| Name | Intersets |
+| Name | Interests |
 | ---- | ---- |
+| Sumi | Singing |
+| Aman | Playing Games |
