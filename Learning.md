@@ -6,4 +6,4 @@
 
 ***sumita***
 
-<!--Strong -->
+~~Unknown Premisis~~
